@@ -1,0 +1,40 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: rgb(216, 255, 249);
+}
+
+.row div
+{
+    border: 5px solid rgb(216, 255, 249);
+    height: 4rem;
+}
+
+.cell {
+    background-color: rgb(255, 200, 255);
+    border: 1px solid black;
+    }
+
+.row.blue div{
+    background-color: blue;
+}    
+
+.row.orange div
+{
+    background-color: orange;
+
+}
+
+.row.green div
+{
+    background-color: green;
+}
+
+.row.red div
+{
+    background-color: red;
+}
