@@ -21,20 +21,24 @@ body
 
 .row.blue div{
     background-color: blue;
+    height: 6rem;
 }    
 
 .row.orange div
 {
     background-color: orange;
+    height: 12rem;
 
 }
 
 .row.green div
 {
     background-color: green;
+    height: 8rem;
 }
 
 .row.red div
 {
     background-color: red;
+    height: 6rem;
 }
