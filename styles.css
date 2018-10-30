@@ -14,11 +14,6 @@ body
     height: 4rem;
 }
 
-.cell {
-    background-color: rgb(255, 200, 255);
-    border: 1px solid black;
-    }
-
 .row.blue div{
     background-color: blue;
     height: 6rem;
